@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  artist: MyString
+  year: 1
+  museum: MyString
+  technique: MyString
+  dimensions: MyString
+
+two:
+  title: MyString
+  artist: MyString
+  year: 1
+  museum: MyString
+  technique: MyString
+  dimensions: MyString
